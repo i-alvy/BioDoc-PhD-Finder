@@ -1,6 +1,8 @@
 {
   "name": "BioDoc PhD Finder",
   "description": "PhD discovery and application platform for Bioinformatics, Structural Biology, and Computational Biology in USA & Europe with CV matching, professor recommendations, deadline notifications, and encrypted cloud sync.",
-  "requestFramePermissions": ["notifications"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
